@@ -13,7 +13,6 @@
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoseLlorensCliment&theme=dracula&column=8" alt="JoseLlorensCliment" /></a> </p>
 </br>
-</br>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [University Miguel Hernandez](https://www.umh.es/)
@@ -24,7 +23,6 @@
 
 - 📫 How to reach me **praderapedro@gmail.com**
 </br>
-</br>
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +32,6 @@
 <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
-</br>
 </br>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
