@@ -6,7 +6,7 @@
 
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseLlorensCliment&label=Profile%20views&color=0e75b6&style=flat" alt="JoseLlorensCliment" /> </p>
+<h4 align="center">Visitor's count :eyes:</h4>
 
 </br>
 </br>
