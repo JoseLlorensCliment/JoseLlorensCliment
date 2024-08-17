@@ -5,10 +5,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="JoseLlorensCliment" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseLlorensCliment&label=Profile%20views&color=0e75b6&style=flat" alt="JoseLlorensCliment" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="JoseLlorensCliment" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoseLlorensCliment&theme=dracula&column=7" alt="JoseLlorensCliment" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [University Miguel Hernandez](https://www.umh.es/)
