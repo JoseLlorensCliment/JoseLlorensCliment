@@ -4,11 +4,16 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseLlorensCliment&label=Profile%20views&color=0e75b6&style=flat" alt="JoseLlorensCliment" /> </p>
 
+
+
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoseLlorensCliment&theme=dracula&column=8" alt="JoseLlorensCliment" /></a> </p>
+
+
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [University Miguel Hernandez](https://www.umh.es/)
@@ -19,6 +24,8 @@
 
 - 📫 How to reach me **praderapedro@gmail.com**
 
+
+
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +34,8 @@
 <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
+
+
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
