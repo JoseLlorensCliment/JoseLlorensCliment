@@ -20,7 +20,7 @@
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+<!-- - 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization -->
 
 - 📫 How to reach me **praderapedro@gmail.com**
 </br>
